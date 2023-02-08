@@ -2,7 +2,7 @@
 
 • Kindly go through my work and feel free to give your reviews.
 
-• GitHub Link: https://lnkd.in/gjwu_3bD
+
 • Website Link: https://neogaean-patient.000webhostapp.com/index.php
 
 Task - Basic Banking System <br>
@@ -11,7 +11,7 @@ Backend: PHP. <br>
 Database: MySQL <br>
 IDE - VS Code <br>
 
-Thankful to The Sparks Foundation for giving me this opportunity. <br>
+• Thankful to The Sparks Foundation for giving me this opportunity. <br>
 
 • Apply Here for an Internship under The Sparks Foundation: https://lnkd.in/genQECge <br>
 
@@ -27,3 +27,13 @@ current balance etc. Transfers table will record all transfers <br>
 happened. <br>
 ◇ Flow: Home Page ➜ View all Customers ➜ Select and View one Customer ➜ Transfer Money ➜ Select customer to transfer to ➜ View all Customers. <br>
 ◇ No Login Page. No User Creation. Only transfer of money between multiple users. <br>
+
+## How to start:
+
+1. Clone my repository or download the zip file
+2. If you're downloading the zip file, extract the zip file to a folder
+3. Open the folder with a code editor like VS Code or any IDE.
+4. Create two tables in a database - One to store user details and one to store transaction details. 
+5. Create the necessery columns.
+6. Update my Config.php file with your database details.
+7. Run the code with XAAMP. You can reach out to me for queries. Details in my profile readme.
